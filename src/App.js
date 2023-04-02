@@ -4,7 +4,9 @@ import './App.css';
 function App() {
   return (
     <>
-      <h1>MediProx</h1>
+      <div className='wrapper'>
+        <h1>MediProx</h1>
+      </div>
     </>
   );
 }

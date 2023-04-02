@@ -19,7 +19,7 @@ The following packages and libs have been installed:
 -   sass
 -   aos
 
-#DEFAULT LAYOUT SETUP:
+# DEFAULT LAYOUT SETUP:
 
 Kindly wrap all your application page with the default div with a class of wrapper as show below:
 
